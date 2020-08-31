@@ -1,2 +1,2 @@
-# status
-网站监控
+# uptime-status
+ A uptime status dashboard based on UptimeRobot API
