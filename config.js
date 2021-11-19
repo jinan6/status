@@ -10,10 +10,8 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm785868588-a8c0db0884e386e6cea220d9',
     'm785868570-fc15ca8eacff2276178a9ad6',
-    'm785868594-506177a65dea637c54f6d645',
-	'm785868591-9d6a41e81d4ad68093c7d55a'
+    'm785868591-9d6a41e81d4ad68093c7d55a'
   ],
 
   // 是否显示监测站点的链接
@@ -26,10 +24,10 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-   {
-      text: '个人主页',
-      url: 'https://blog.jinan6.vip/'
-    },
+//    {
+//       text: '个人主页',
+//       url: 'https://blog.jinan6.vip/'
+//     },
     {
       text: '博客',
       url: 'https://jinan6.vip/'
